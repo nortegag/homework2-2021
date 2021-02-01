@@ -4,50 +4,50 @@ body {
     color: white;
 }
 
-h1{
+h1 {
     font-size: 64px;
     text-align: center;
     padding: 10px;
 }
 
-h2{
+h2 {
     font-size: 32px;
     text-shadow: 4px 4px 2px #808080;
 }
 
-p{
+p {
    font-size: 24px;
    padding-top: 15px;
 
 }
 
-img{
+img {
     width: 550px;
     display: block;
     margin: auto;
 }
 
-div{
+div {
     min-height: 150px;
     padding: 25px;
 }
 
-#red{
+#red {
     background-color: #ff0000;
     text-align: right;
 }
 
-#blue{
+#blue {
     background-color: #0000ff;
     text-align: left;
 }
 
-#yellow{
+#yellow {
     background-color: #ffff00;
     text-align: right;
 }
 
-#yellow h2{
+#yellow h2 {
     color: #000000;
     text-shadow: 4px 4px 2px #c7e2c7;
 }
